@@ -2,12 +2,6 @@
 
 This repository contains my **handwritten digital notes** for the *Compiler Design* course taught by **Prof. Satanu Chattopadhyay (IIT Kharagpur)** and offered via **NPTEL**.
 
-These notes are structured week-wise and are intended to provide:
-
-* Clear conceptual understanding
-* Quick revision before exams
-* Easy reference for core compiler topics
-
 ---
 
 ## 📚 Course Layout
